@@ -1,0 +1,104 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 48px;
+}
+h2{
+    font-size: 36px;
+}
+p{
+    font-size: 18px;
+}
+.menu{
+    text-align: end;;
+    margin-top: 10px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-right:15px ;
+
+}
+.flexible-container{
+    display: flex;
+    align-items: center;
+}
+.text-highlight{
+    color:#fb974b ;
+}
+
+.half-width{
+    width: 45%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.half-width h1{
+    color: #575757;
+}
+.half-width img{
+    height: 540px;
+}
+.link-btn{
+    color: white;
+    text-decoration: none;
+    padding: 10px 40px;
+    background: linear-gradient(#fb8e49 ,#fd4f30);
+    border-radius:20px;
+    display: inline-block;
+    margin-top: 20px;
+}
+.banner-area{
+    background-image: url(./images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 30px;
+}
+.banner-img{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    color:#575757 ;
+}
+.my-recipies-area p{
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+}
+.recipie{
+    width: 30%;
+    margin:2% 1%;
+    padding: 15px;
+    height: 530px;
+    box-shadow: 10px 10px 40px rgb(0 0 0 / 40%);
+    border-radius: 20px;
+}
+.recipie img{
+    width: 100%;
+}
+.followers-area{
+    margin: 70px 20px;
+    box-shadow: 10px 10px 40px rgb(0 0 0 / 30%);
+    width: 96%;
+    border-radius: 10px;
+}
+.follower-area{
+    text-align: center;
+    width: 32%;
+    padding: 1%;
+}
+footer{
+    background: black;
+    text-align: center;
+    padding: 20px;
+}
+footer h1{
+    color: grey;
+}
+footer p{
+    color:#fff;
+}
