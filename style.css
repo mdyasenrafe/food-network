@@ -59,7 +59,7 @@ p{
     background-size: cover;
     margin-top: 30px;
 }
-.banner-img{
+.banner-img-area{
     text-align: center;
 }
 .my-recipies-area{
@@ -75,7 +75,7 @@ p{
     margin: 0 auto;
 }
 .recipie{
-    width: 30%;
+    width: 29%;
     margin: 1%;
     padding: 15px;
     height: 530px;
@@ -100,7 +100,7 @@ p{
     background-image: url(images/shapes/Frame\ 57.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    padding: 40px 0;
+    padding: 45px 0;
     text-align: center;
 }
 .contact-area-textarea , .form input{
