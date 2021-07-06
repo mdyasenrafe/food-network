@@ -60,6 +60,7 @@ p{
     background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     margin-top: 30px;
 }
 .banner-img-area{
@@ -100,9 +101,10 @@ p{
     padding: 1%;
 }
 .contact-area{
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(./images/shapes/7.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
     padding: 45px 0;
     text-align: center;
 }
