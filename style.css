@@ -33,16 +33,19 @@ p{
 .half-width{
     width: 45%;
     padding-left: 5%;
-    padding-top: 5%;
+    padding-top: 2%;
 }
 .half-width h1{
+    color: #575757;
+}
+.half-width h2{
     color: #575757;
 }
 .half-width img{
     height: 540px;
 }
 .link-btn{
-    color: white;
+    color: white !important;
     text-decoration: none;
     padding: 10px 40px;
     background: linear-gradient(#fb8e49 ,#fd4f30);
@@ -59,7 +62,9 @@ p{
 .banner-img{
     text-align: center;
 }
-
+.my-recipies-area{
+    margin: 40px 0;
+}
 .title{
     text-align: center;
     color:#575757 ;
@@ -71,7 +76,7 @@ p{
 }
 .recipie{
     width: 30%;
-    margin:2% 1%;
+    margin: 1%;
     padding: 15px;
     height: 530px;
     box-shadow: 10px 10px 40px rgb(0 0 0 / 40%);
@@ -90,6 +95,21 @@ p{
     text-align: center;
     width: 32%;
     padding: 1%;
+}
+.contact-area{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 40px 0;
+}
+.contact-area-textarea , .form input{
+    width: 90%;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+.text-center{
+    text-align: center;
 }
 footer{
     background: black;
