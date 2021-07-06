@@ -101,6 +101,7 @@ p{
     background-repeat: no-repeat;
     background-size: cover;
     padding: 40px 0;
+    text-align: center;
 }
 .contact-area-textarea , .form input{
     width: 90%;
